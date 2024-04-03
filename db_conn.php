@@ -1,6 +1,6 @@
 <?php
-
-$DB_HOST= "localhost";
+// sua localhost
+$DB_HOST= "127.0.0.1";
 $DB_USER= "root";
 $DB_PASS = "";
 $DB_NAME = "demo";
